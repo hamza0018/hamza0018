@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, I’m Hamza<br>- 👀 I have expertise in HTML, CSS, bootstrap, tailwind css and JavaScript, as well as frameworks like React and Next.js.<br>- 🌱 I’m currently learning Vue.js to expand my Frontend Development skills.<br>- 💞️ I’m looking to collaborate on exciting JavaScript projects, particularly in the React, Next js and Vue js .<br>- 📫 How to reach me: LinkedIn<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I love exploring new JavaScript frameworks and tools to keep my skills sharp!
+👋 Hello, I’m Hamza<br>- 👀 I have expertise in HTML, CSS, bootstrap, tailwind css, JavaScript and Shadcn, as well as frameworks like React, Next.js and React Native.<br>- 🌱 I’m currently learning Vue.js to expand my Frontend Development skills.<br>- 💞️ I’m looking to collaborate on exciting JavaScript projects, particularly in the React, Next js and Vue js .<br>- 📫 How to reach me: LinkedIn<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I love exploring new JavaScript frameworks and tools to keep my skills sharp!
 
 
 ## 🌐 Socials:
