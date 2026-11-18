@@ -13,8 +13,9 @@
 
 ## 🌐 Connect with me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-hamzaramzan--dev.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)]
+[![Portfolio](https://img.shields.io/badge/Portfolio-hamzaramzan--dev.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hamzaramzan-dev.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhamza1209/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzaramzan3333@gmail.com)
 
 ## 💻 Tech Stack
 
